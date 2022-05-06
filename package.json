@@ -13,7 +13,7 @@
     "@types/p5": "^1.4.2",
     "@typescript-eslint/eslint-plugin": "^5.22.0",
     "@typescript-eslint/parser": "^5.22.0",
-    "eslint": "^8.14.0",
+    "eslint": "^8.15.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
     "typescript": "^4.5.4"
@@ -22,5 +22,18 @@
     "vitest": "^0.10.5",
     "vite": "^2.9.7",
     "p5": "^1.4.1"
-  }
+  },
+  "description": "```\r npm install\r ```\r ### Init the Vite server\r ```\r npx vite\r ```\r ### Check the test stuff\r #### In order to test, open another terminal window and then use the following\r ```\r npm run test\r ```",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valmartz1/vite-valmartz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valmartz1/vite-valmartz/issues"
+  },
+  "homepage": "https://github.com/valmartz1/vite-valmartz#readme"
 }
